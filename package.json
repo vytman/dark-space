@@ -1,0 +1,22 @@
+{
+  "name": "space-city",
+  "displayName": "Space City",
+  "description": "VS Code theme based on Dark Space and Tokyo City",
+  "publisher": "Vytman",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Space City",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space City-color-theme.json"
+      }
+    ]
+  }
+}
